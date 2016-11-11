@@ -1,0 +1,8 @@
+C:\Users\Pat\Documents\Visual Studio 2008\Projects\EDGEOutputUtilities\EDGEOutputUtilities\bin\Debug\EDGEOutputUtilities.exe
+C:\Users\Pat\Documents\Visual Studio 2008\Projects\EDGEOutputUtilities\EDGEOutputUtilities\bin\Debug\EDGEOutputUtilities.pdb
+C:\Users\Pat\Documents\Visual Studio 2008\Projects\EDGEOutputUtilities\EDGEOutputUtilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pat\Documents\Visual Studio 2008\Projects\EDGEOutputUtilities\EDGEOutputUtilities\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Pat\Documents\Visual Studio 2008\Projects\EDGEOutputUtilities\EDGEOutputUtilities\obj\Debug\EDGEOutputUtilities.Properties.Resources.resources
+C:\Users\Pat\Documents\Visual Studio 2008\Projects\EDGEOutputUtilities\EDGEOutputUtilities\obj\Debug\EDGEOutputUtilities.csproj.GenerateResource.Cache
+C:\Users\Pat\Documents\Visual Studio 2008\Projects\EDGEOutputUtilities\EDGEOutputUtilities\obj\Debug\EDGEOutputUtilities.exe
+C:\Users\Pat\Documents\Visual Studio 2008\Projects\EDGEOutputUtilities\EDGEOutputUtilities\obj\Debug\EDGEOutputUtilities.pdb
